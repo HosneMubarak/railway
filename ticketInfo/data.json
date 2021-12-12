@@ -1,0 +1,46 @@
+[
+    {
+        "name":"Sonar Bangla",
+        "to_station":"Chittagong",
+        "from_station":"Dhaka",
+        "date":"3-10-2021",
+        "time":"11:30AM",
+        "seat_class":"berth",
+        "route":"Dhaka-Chittagong",
+        "seat":"21",
+        "price":"670"
+    },
+    {
+        "name": "Mahanagar provati",
+        "to_station": "Chittagong",
+        "from_station": "Dhaka",
+        "date": "3-10-2021",
+        "time": "12:30PM",
+        "seat_class": "AC",
+        "route": "Dhaka-Chittagong",
+        "seat": "51",
+        "price": "750"
+    },
+    {
+        "name": "Subarna express",
+        "to_station": "Chittagong",
+        "from_station": "Dhaka",
+        "date": "3-10-2021",
+        "time": "1:00AM",
+        "seat_class": "Schair",
+        "route": "Dhaka-Chittagong",
+        "seat": "21",
+        "price": "850"
+    },
+    {
+        "name": "Turna express",
+        "to_station": "Chittagong",
+        "from_station": "Dhaka",
+        "date": "4-10-2021",
+        "time": "11:00PM",
+        "seat_class": "AC",
+        "route": "Dhaka-Chittagong",
+        "seat": "21",
+        "price": "670"
+    }
+]
